@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches  
 
-#storage
+
 #dictionaryStorage = python dict type converted from json file with imported library 
 dictionaryStorage = json.load(open("dictionary.json"))
 
